@@ -1,3 +1,4 @@
+
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,7 +16,9 @@ namespace Lab04_02
         public Form1()
         {
             InitializeComponent();
+
         }
-    }//thembulul
+    }
 
 }
+
