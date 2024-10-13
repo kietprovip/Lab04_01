@@ -16,5 +16,6 @@ namespace Lab04_02
         {
             InitializeComponent();
         }
-    }//????
+    }//thembulul
+
 }
