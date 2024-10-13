@@ -15,7 +15,8 @@ namespace Lab04_02
         public Form1()
         {
             InitializeComponent();
+            int a;
         }
-    }//thembulul
+    }
 
 }
