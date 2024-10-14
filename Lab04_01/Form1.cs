@@ -208,6 +208,8 @@ namespace Lab04_01
         private void toolStripLabel1_Click(object sender, EventArgs e)
         {
             int a;
+            int b;
+            int c;
         }
     }
 }
