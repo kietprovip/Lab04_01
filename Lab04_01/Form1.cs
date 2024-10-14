@@ -209,6 +209,7 @@ namespace Lab04_01
         {
             int a;
             int b;
+            int c;
         }
     }
 }
