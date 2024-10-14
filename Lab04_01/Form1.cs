@@ -204,5 +204,10 @@ namespace Lab04_01
             timkiem.Show();
             this.Hide();
         }
+
+        private void toolStripLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

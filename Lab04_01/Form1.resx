@@ -129,29 +129,14 @@
   <metadata name="DTB.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="MSSV.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="HoTen.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="TenKhoa.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="DTB.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
-  </metadata>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>143, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="btnKhoa.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAYAAAA+s9J6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAP+lSURBVHhe7P0FfFVXuv+PM3O/c8dquBQorsGJkBAhhLi7
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P0FfFVXuv+PM3O/c8dquBQorsGJkBAhhLi7
         h+BQ96m7TTvt1JXi7sQVd2lxDYS4O972838+z8kOhzRIp70z9/5ef3g9r32yzz777L3Peq9H11qtxtt0
         hf2oTrAe0g7DB7XDsP5dMNyiJ0YPHwJLS0v06WOBfoMs0X+IHXoNtkXnPlZo22ME2vYehXb9bNFxmBva
         DfNEaws33D1oAu7o74w/93HEf/cciz/0sNO/KXcOGK9y10AXFR57z6BxaDfQAe0HWKNdX0u07TsCHfqM
@@ -1835,7 +1820,7 @@
   <data name="btnSearch.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAOsAAADWCAYAAAAw7nWmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAP+lSURBVHhe3L11fBxH1v2tJGZmZmaWbVmWZVuyWLLAzMzM
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe3L11fBxH1v2tJGZmZmaWbVmWZVuyWLLAzMzM
         zMzM4Q0z2GGmDXMcx8xM4c0+u+c9545Kbk9GspOF5/m9f5xPD3b39NS3LtSt6qAOxfLjT6t4XkQVk3L/
         acUUzW+K4v4k7TeyuE/tSuRHOPffuoRPrUrkQct0NS+RGy2K50YoP9+a3/eXXpdacT9eteQ+vWqWP0eW
         al4w13VqUYjHTVfLwnnQqnB+hBTKh+b5c6JZ3uwIzpMNLfLlQEiBnGjFz7fnMST3myJ5zbxy7/9ZXdvv
@@ -3269,4 +3254,7 @@
         RU5ErkJggg==
 </value>
   </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>143, 17</value>
+  </metadata>
 </root>
